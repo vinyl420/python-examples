@@ -1,0 +1,10 @@
+#Indenation refers to the spaces at the beginning of a code line.
+#Unlike in other languages indentation in Python is really important without it Python won't be able to understand the code.
+
+if 5 > 2
+  print("Five is greater than two!")
+  
+  #Python will give you a syntax error, if you skip the indentation.
+  
+  if 5 > 2
+  print("Five is greater than two!")
